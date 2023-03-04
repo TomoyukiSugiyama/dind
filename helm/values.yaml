@@ -1,0 +1,6 @@
+revision: latest
+name: dind
+namespace: dind
+deployment:
+  replicas: 1
+imagePullPolicy: IfNotPresent
